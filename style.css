@@ -112,7 +112,7 @@ body {
   cursor: pointer;
 }
 
-.content__button p {
+.content__button h1 {
   font-family: "Montserrat", sans-serif;
   color: var(--white);
   font-size: 0.9rem;
